@@ -1,17 +1,15 @@
-<h1 align="center">Introducing Noel Nathanael</h1>
-<h3 align="center">a computer science student aspiring to be a software engineer, with a focus on database architecture. Passionate about leveraging data for innovative solutions, I'm on a mission to contribute to the evolving field of software engineering.</h3>
+<h1 align="center">Noel Nathanael</h1>
+<h3 align="center">a computer science student aspiring to be a software engineer, with a focus on database architecture. Passionate about leveraging data for innovative solutions, technology and bussiness. I'm on a mission to contribute to the evolving field of software engineering. </h3>
 
 - 🔭 I’m currently working on **oeeell, my personal website.**
-
 - 🌱 I’m currently learning **Laravel**
-
 - 💬 Ask me about **MySQL**
-
 - 📫 How to reach me **nathanael.jr.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oeeell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oeeell" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/oeeell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/oeeell" height="30" width="40" /></a>
 <a href="https://instagram.com/nathanael__jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanael__jr" height="30" width="40" /></a>
 </p>
 
