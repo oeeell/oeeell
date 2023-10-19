@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noel Nathanael</h1>
-<h3 align="center">a passionate computer science student on the path to becoming a future software engineer</h3>
+<h3 align="center">I'm Noel Nathanael, a computer science student aspiring to be a software engineer, with a focus on database architecture. Passionate about leveraging data for innovative solutions, I'm on a mission to contribute to the evolving field of software engineering.</h3>
 
 - 🔭 I’m currently working on **oeeell, my personal website.**
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Back-End Engineering**
+- 💬 Ask me about **MySQL**
 
 - 📫 How to reach me **nathanael.jr.work@gmail.com**
 
