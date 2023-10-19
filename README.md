@@ -1,5 +1,7 @@
+[![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2023/06/image-3.gif)](https://oeeell.com)
 <h1 align="center">Noel Nathanael</h1>
 <h3 align="center">a computer science student aspiring to be a software engineer, with a focus on database architecture. Passionate about leveraging data for innovative solutions, technology and bussiness. I'm on a mission to contribute to the evolving field of software engineering. </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🔭 I’m currently working on **oeeell, my personal website.**
 - 🌱 I’m currently learning **Laravel**
