@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🔭 I’m currently working on **oeeell, my personal website.**
-- 🌱 I’m currently learning **Laravel**
-- 💬 Ask me about **MySQL**
+- 🌱 I’m currently training on my **Software Developer Engineering**
+- 💬 Ask me about **Database Course**
 - 📫 How to reach me **nathanael.jr.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
