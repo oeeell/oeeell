@@ -3,9 +3,9 @@
 <h3 align="center">a computer science student aspiring to be a software engineer, with a focus on database architecture. Passionate about leveraging data for innovative solutions, technology and bussiness. I'm on a mission to contribute to the evolving field of software engineering. </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🔭 I’m still developing at **oeeell - my personal website.**
-- 🌱 I’m currently working as a **Software Developer Engineering Intern**
-- 💬 You can ask me about **Database Engineering**
+- 🔭 I’m still developing at **oeeell - my personal website**
+- 🌱 I’m currently at my last year of education at **Binus University**
+- 💬 You can ask me about **Database or Software Engineering**
 - 📫 Feel free to reach me at **nathanael.jr.work@gmail.com** or my **LinkedIn :)**
 
 <h3 align="left">Connect with me:</h3>
